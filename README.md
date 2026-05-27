@@ -6,7 +6,7 @@
 
 <!-- PROFILE VIEWS & WAKATIME -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akintomiwa200&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=herkintormiwer2-glitch&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Active%20Learner-36BCF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-0e75b6?style=flat-square" />
 </p>
@@ -93,7 +93,7 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 * Dark mode, accessibility support, and text-to-speech features
 * Hybrid data system (MongoDB + JSON fallback for offline-ready usage)
 
-**[Live Demo](https://github.com/akintomiwa200)** | **[Repository](https://github.com/akintomiwa200/pmp)**
+**[Live Demo](https://github.com/herkintormiwer2-glitch)** | **[Repository](https://github.com/herkintormiwer2-glitch)**
 
 
 ### 📱 AmstaPay Mobile App
@@ -168,7 +168,7 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=herkintormiwer2-glitch&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -178,7 +178,7 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
   <a href="https://linkedin.com/in/akintomiwa-peter-adedokun">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/akintomiwa200">
+  <a href="https://github.com/herkintormiwer2-glitch">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/herkintormiwer">
@@ -197,12 +197,12 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 ## 🎯 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akintomiwa200&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herkintormiwer2-glitch&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akintomiwa200&theme=radical" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akintomiwa200&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herkintormiwer2-glitch&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herkintormiwer2-glitch&theme=radical" height="180" />
 </p>
 
 ---
@@ -210,10 +210,10 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 ## 💡 Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/akintomiwa200">
+  <a href="https://www.buymeacoffee.com/herkintormiwer2-glitch">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://github.com/sponsors/akintomiwa200">
+  <a href="https://github.com/sponsors/herkintormiwer2-glitch">
     <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </p>
