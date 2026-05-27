@@ -132,18 +132,18 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=herkintormiwer2-glitch&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herkintormiwer2-glitch&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintomiwa200&theme=radical&hide_border=true&background=0d1117&fire=36BCF7&ring=36BCF7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herkintormiwer2-glitch&theme=radical&hide_border=true&background=0d1117&fire=36BCF7&ring=36BCF7" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akintomiwa200&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herkintormiwer2-glitch&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake Game
@@ -152,15 +152,15 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/herkintormiwer2-glitch/herkintormiwer2-glitch/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/herkintormiwer2-glitch/herkintormiwer2-glitch/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/herkintormiwer2-glitch/herkintormiwer2-glitch/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
